@@ -7,4 +7,11 @@ An implementation of https://towardsdatascience.com/using-classes-for-machine-le
 Other Resources:
 
 https://guillemmiralles1.medium.com/creating-a-class-that-performs-all-parts-of-machine-learning-automatically-with-python-757f25c5a5cb
+
 https://colab.research.google.com/drive/1wDaFqFyz3nPuiWQVbltRHztossNhUfTB?usp=sharing#scrollTo=lzArbV2zh4wq
+
+https://sangama.hashnode.dev/chapter-7-object-oriented-programming-in-python-for-ai
+
+
+
+
